@@ -1,2 +1,4 @@
-# Tuning-BERTSUM
-The project is trying to improve the baseline BERTSUM model by applying the model modifition
+# Fine-Tuning BERT for Extractive Text Summarization
+The implementation of the baseline "Fine-Tune BERT for Extractive Summarization".
+
+Added the different summization layers of K-Mean Clustering stacked on top of the BERT outputs which inspired by ""
